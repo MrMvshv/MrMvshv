@@ -12,5 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There,+Glad+to+see+You+here!+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+There,+Glad+to+see+You+here!+Welcome;Hope+We+Can+Work+Together+Sometime...;Feel+free+to+checkout+some+of+my+projects&pause=1000&width=600)](https://git.io/typing-svg)
+<a href="https://github.com/MrMvshv?tab=repositories">
 <h4> This page is currently under development, check back soon to see some cool stuff!</h4>
